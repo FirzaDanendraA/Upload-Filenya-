@@ -1,0 +1,33 @@
+body {    
+    Background-color : #EDE9D5; 
+    margin: 0px;
+    padding-top : 5px;
+}
+div.container{
+    margin: 0px ;
+    padding: 0px;
+    Width : 100%;
+    height : 100%;
+    Text-align : center;
+}
+p{
+    font-weight : 500;
+}
+div.hobi > p{   
+    Text-decoration : underline;
+    font-color : Red;
+}
+
+a{
+    Display : flex;
+    Justify-content : center;
+    Align-items : center;
+    Text-decoration : none;
+    Font-color : white;
+}
+
+div.header{
+     Text-shadow : 2px 2px gray;
+     Animation-direction : normal;
+     Animation-duration : 3s; 
+}
